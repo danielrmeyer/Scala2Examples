@@ -1,3 +1,3 @@
 # Introduction
 
-This is an informal collection of scala code doing various things.
+This is an informal collection of scala code for doing various things.
