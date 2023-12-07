@@ -1,0 +1,70 @@
+{
+  "rockyPlanets": [
+    {
+      "name": "Mercury",
+      "satellites": [],
+      "mass": "0.055 Earth Masses"
+    },
+    {
+      "name": "Venus",
+      "satellites": [],
+      "mass": "0.815 Earth Masses"
+    },
+    {
+      "name": "Earth",
+      "satellites": [
+        "Moon"
+      ],
+      "mass": "1 Earth Mass"
+    },
+    {
+      "name": "Mars",
+      "satellites": [
+        "Phobos",
+        "Deimos"
+      ],
+      "mass": "0.107 Earth Masses"
+    }
+  ],
+  "gasGiants": [
+    {
+      "name": "Jupiter",
+      "satellites": [
+        "Io",
+        "Europa",
+        "Ganymede",
+        "Callisto"
+      ],
+      "mass": "317.8 Earth Masses"
+    },
+    {
+      "name": "Saturn",
+      "satellites": [
+        "Titan",
+        "Enceladus",
+        "Mimas"
+      ],
+      "mass": "95.2 Earth Masses"
+    },
+    {
+      "name": "Uranus",
+      "satellites": [
+        "Miranda",
+        "Ariel",
+        "Umbriel",
+        "Titania",
+        "Oberon"
+      ],
+      "mass": "14.6 Earth Masses"
+    },
+    {
+      "name": "Neptune",
+      "satellites": [
+        "Triton",
+        "Proteus",
+        "Nereid"
+      ],
+      "mass": "17.2 Earth Masses"
+    }
+  ]
+}
